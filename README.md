@@ -161,3 +161,8 @@ print("R_squared: " + str(round(r2_score(y,y_pred),3)))
 ![14](https://user-images.githubusercontent.com/95342910/170410202-ca4b664a-3386-475f-bc38-464e6c09aa23.png)
 
 ![15](https://user-images.githubusercontent.com/95342910/170410238-a7f245ec-a5fd-4751-a865-7c4456ee882f.png)
+ 
+![16](https://user-images.githubusercontent.com/95342910/170410398-4370a44f-f235-4995-99f2-81eab1397165.png)
+
+
+
