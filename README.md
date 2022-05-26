@@ -165,5 +165,5 @@ print("R_squared: " + str(round(r2_score(y,y_pred),3)))
 ![16](https://user-images.githubusercontent.com/95342910/170410398-4370a44f-f235-4995-99f2-81eab1397165.png)
 
 
-##RESULT
+## RESULT
 The various feature selection techniques has been performed on a dataset and saved the data to a file.
